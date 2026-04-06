@@ -118,7 +118,10 @@ recon_target_timestamp/
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
+### 🔹 Tool_Help
+<p align="center">
+  <img src="Screenshots/Screenshot From 2026-04-06 13-41-27.png" width="800">
+</p>
 
 ### 🔹 Subdomain Enumeration
 <p align="center">
@@ -198,11 +201,6 @@ recon_target_timestamp/
 ### 🔹 HTML Report – Final View
 <p align="center">
   <img src="Screenshots/Screenshot From 2026-04-06 13-33-39.png" width="800">
-</p>
-
-### 🔹 Final Output Summary
-<p align="center">
-  <img src="Screenshots/Screenshot From 2026-04-06 13-41-27.png" width="800">
 </p>
 ---
 
