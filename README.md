@@ -118,7 +118,9 @@ recon_target_timestamp/
 
 ## 📸 Screenshots
 
-CyberRecon-V4/Screenshots/Screenshot From 2026-04-06 13-41-27.png
+<p align="center">
+  <img src="Screenshots/screenshot-1.png" width="800">
+</p>
 ---
 
 ## ⚠️ Disclaimer
